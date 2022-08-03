@@ -41,8 +41,8 @@ Como saída, seu programa deverá informar, para cada partida, a melhor pontuaç
 
 Caso não exista um encaixe perfeito, o padrão de impressão que deve ser seguido é:
 
-<b>Pontuacao:</b> ~ P ~
-<b>Posicao de Encaixe:</b> ~ R ~
+<b>Pontuacao:</b> ~ P ~ <br>
+<b>Posicao de Encaixe:</b> ~ R ~ <br>
 <b>Peca 1:</b> ~ Normal|Invertida ~
 
 Caso contrário: <br>
