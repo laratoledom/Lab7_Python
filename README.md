@@ -45,7 +45,8 @@ Caso não exista um encaixe perfeito, o padrão de impressão que deve ser segui
 <b>Posicao de Encaixe:</b> ~ R ~ <br>
 <b>Peca 1:</b> ~ Normal|Invertida ~
 
-Caso contrário: <br>
+Caso contrário:
+  
 <b>Encaixe Perfeito! <br>
 Posicao de Encaixe:</b> ~ R ~ <br>
 <b>Peca 1:</b> ~ Normal|Invertida ~
